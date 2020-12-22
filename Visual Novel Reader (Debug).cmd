@@ -10,10 +10,10 @@ title Visual Novel Reader (Debug)
 
 set ME=Debug
 
-set PYTHON=Library\Frameworks\Python\python.exe
+set PYTHON=Frameworks\Python\python.exe
 set FLAGS=-B
 set PYTHON_OPT=
-set SCRIPT=Library/Frameworks/Sakura/py/apps/reader
+set SCRIPT=Frameworks/Sakura/py/apps/reader
 set SCRIPT_OPT=--debug
 
 set PATH=%windir%;%windir%\system32
